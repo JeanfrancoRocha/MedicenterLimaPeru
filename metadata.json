@@ -1,0 +1,6 @@
+{
+  "name": "MEDICENTER | Citas Médicas Lima",
+  "description": "Sistema integral de citas médicas en Lima, Perú. Reserva de citas presenciales y teleconsultas médicas inmediatas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
